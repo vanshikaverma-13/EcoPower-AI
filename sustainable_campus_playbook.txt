@@ -1,0 +1,17 @@
+DOCUMENT: Sustainable Educational Campus Energy Management & Student Action Playbook
+AUTHORITY: Green Campus Initiative & Higher Education Sustainability Association
+CATEGORY: Campus Audits, Student Dormitories & Institutional Culture
+
+1. Student Dormitory and Hostel Conservation Protocols:
+- Ghost/phantom electrical loads (chargers, gaming consoles, desktop monitors in sleep state, personal kettle heaters) account for 8% to 12% of total hostel electricity draw.
+- Establish 'Smart Plug' policies and master cut-off switches at dormitory room exits to extinguish all phantom loads when students leave for classrooms.
+- Restrict unauthorized personal space heaters and low-efficiency resistance coils; utilize centralized solar thermal water heaters for bathing and kitchen hot water requirements.
+
+2. Computer Laboratories, Server Rooms & Academic Blocks:
+- Configure network-wide automated power management profiles: enforce display sleep after 10 minutes of inactivity and system hibernate after 30 minutes.
+- Server room cold-aisle/hot-aisle containment: optimize data center airflow geometry to prevent recirculation of heated exhaust air, enabling HVAC setpoints to be raised safely to 22°C-24°C from outdated 18°C baselines.
+- Schedule centralized library and auditorium air conditioning based on advance room booking calendar integrations rather than static manual continuous operation.
+
+3. Student-Led Behavioral & Awareness Campaigns:
+- Deploy visual campus energy dashboards showing real-time hostel vs hostel consumption leaderboards. Friendly gamification and energy literacy campaigns demonstrate 5% to 15% voluntary consumption reductions.
+- Appoint Student Energy Ambassadors across university faculties to conduct monthly twilight walkthrough energy audits, identifying empty rooms with active lighting or cooling.

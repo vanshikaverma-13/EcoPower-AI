@@ -1,0 +1,16 @@
+DOCUMENT: United Nations Framework on SDG 7 (Affordable and Clean Energy) & SDG 13 (Climate Action)
+AUTHORITY: United Nations Division for Sustainable Development Goals (UNDESA / UNEP)
+CATEGORY: Global Sustainability Goals & Climate Impact Mitigation
+
+1. SDG Target 7.2 - Renewable Energy Integration:
+- Substantially accelerate the share of on-site renewable electricity through rooftop solar photovoltaic (PV) arrays.
+- Institutional rooftops provide optimal real estate for grid-interactive distributed PV systems, converting unutilized surface into zero-emission generation assets.
+- Clean distributed generation offsets fossil fuel dependence and cuts Scope 2 carbon emissions.
+
+2. SDG Target 7.3 - Doubling the Global Rate of Improvement in Energy Efficiency:
+- Decouple institutional expansion and economic activity from gross greenhouse gas emissions through aggressive energy intensity reductions.
+- Establish energy consumption benchmarking (kWh per square meter per annum, or kWh per campus student per semester) to measure longitudinal decarbonization performance.
+
+3. SDG 13 Alignment - Direct Carbon Footprint Abatement:
+- In grid regions dominated by coal-fired generation (such as Northern India grid emission factors hovering around 0.71 to 0.82 kg CO2 per kWh consumed), every 1,000 kWh saved prevents approximately 750 to 820 kg of carbon dioxide from entering the atmosphere.
+- Real-time digital tracking, predictive energy analytics, and behavioral transparency empower occupants to actively participate in climate stabilization.

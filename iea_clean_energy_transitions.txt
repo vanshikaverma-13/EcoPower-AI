@@ -1,0 +1,15 @@
+DOCUMENT: International Energy Agency (IEA) - Clean Energy Transitions & Demand-Side Energy Management
+AUTHORITY: International Energy Agency (IEA Paris)
+CATEGORY: Global Demand Management & Decarbonization Pathways
+
+1. Demand-Side Flexibility and Load Shifting:
+- Shifting discretionary electrical loads away from grid peak hours lowers overall system stress, dampens costly spot electricity market prices, and maximizes the absorption of variable renewable generation (solar PV).
+- Implementing smart building energy management systems (BEMS) enables real-time sub-metering, automated setpoint modulation, and proactive fault detection across sub-distribution boards.
+
+2. Thermal Pre-Cooling and Building Thermal Inertia:
+- Pre-cooling educational and institutional building envelopes during low-tariff early morning hours (06:00 to 08:30) allows facilities to curtail active chiller demand during high-tariff afternoon peak windows (11:00 to 15:00) without compromising occupant comfort.
+- Integrating thermal energy storage (ice banks or chilled water tanks) decouples cooling generation from cooling utilization, shaving peak HVAC demand by 25% to 40%.
+
+3. Motor Systems & Variable Frequency Drives (VFDs):
+- Motors, pumps, and ventilation fans represent over 40% of building mechanical power draw.
+- Fitting VFDs on air handling units (AHUs) and water circulation pumps allows output modulation matching variable thermal loads, reducing pumping energy consumption by up to 50% through Affinity Laws (power is proportional to the cube of speed).

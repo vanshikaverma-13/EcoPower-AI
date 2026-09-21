@@ -1,0 +1,18 @@
+DOCUMENT: Bureau of Energy Efficiency (BEE) India - Institutional Energy Conservation Guidelines
+AUTHORITY: Ministry of Power, Government of India
+CATEGORY: Building Efficiency & Equipment Standards
+
+1. Air Conditioning & Thermal Comfort Standards:
+- Mandatory default temperature setting for institutional and commercial space conditioning is established at 24°C to 26°C.
+- Raising thermostat setpoint by 1°C reduces overall cooling energy consumption by approximately 6%.
+- Maintain indoor relative humidity within 40% to 60% to maximize thermal comfort while curbing latent cooling energy waste.
+- Implementation of variable refrigerant flow (VRF) and inverter chillers yields 20% to 30% electrical energy efficiency improvements over conventional constant-speed compressors.
+
+2. Star Labeling & Appliance Replacement:
+- All institutional facilities must procure minimum BEE 5-Star rated ceiling fans, air conditioners, and distribution transformers.
+- Replacement of conventional 40W fluorescent tube lights with 18W/20W BEE 5-Star rated LED luminaires cuts lighting power consumption by 50% to 55%.
+- Installation of occupancy sensors in meeting rooms, lecture halls, restrooms, and corridors eliminates parasitic non-occupancy lighting loads.
+
+3. Energy Conservation Building Code (ECBC):
+- Commercial and educational institutions with connected loads >= 100 kW must comply with ECBC norms regarding Window-to-Wall Ratio (WWR <= 40%), roof solar reflectance index (SRI >= 78), and high-performance double-glazed low-E fenestration.
+- Automated timer schedules should enforce systematic shut-off of non-essential cooling and decorative lighting during non-working hours.

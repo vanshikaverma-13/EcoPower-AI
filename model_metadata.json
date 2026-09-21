@@ -1,0 +1,58 @@
+{
+    "best_model_name": "Gradient Boosting",
+    "metrics_comparison": {
+        "Linear Regression": {
+            "MAE": 8.482,
+            "RMSE": 10.902,
+            "R2": 0.8716
+        },
+        "Random Forest": {
+            "MAE": 3.067,
+            "RMSE": 3.947,
+            "R2": 0.9832
+        },
+        "Gradient Boosting": {
+            "MAE": 3.014,
+            "RMSE": 3.862,
+            "R2": 0.9839
+        }
+    },
+    "best_metrics": {
+        "MAE": 3.014,
+        "RMSE": 3.862,
+        "R2": 0.9839
+    },
+    "feature_names": [
+        "temperature_c",
+        "humidity_pct",
+        "occupancy_estimate",
+        "is_weekend",
+        "is_business_hours",
+        "peak_hours_flag",
+        "cdd_cooling_load",
+        "hdd_heating_load",
+        "sin_hour",
+        "cos_hour",
+        "sin_month",
+        "cos_month",
+        "heat_index_proxy"
+    ],
+    "feature_importance": {
+        "occupancy_estimate": 0.3874,
+        "peak_hours_flag": 0.2527,
+        "cdd_cooling_load": 0.2033,
+        "temperature_c": 0.1165,
+        "heat_index_proxy": 0.0393,
+        "sin_hour": 0.0003,
+        "humidity_pct": 0.0002,
+        "is_business_hours": 0.0001,
+        "hdd_heating_load": 0.0001,
+        "is_weekend": 0.0,
+        "cos_hour": 0.0,
+        "sin_month": 0.0,
+        "cos_month": 0.0
+    },
+    "train_samples": 7027,
+    "test_samples": 1757,
+    "uses_scaler": false
+}

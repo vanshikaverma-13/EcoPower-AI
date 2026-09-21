@@ -1,0 +1,15 @@
+DOCUMENT: Handbook on Peak Load Management & Electrical Network Optimization
+AUTHORITY: Central Electricity Regulatory Commission (CERC) & National Smart Grid Mission
+CATEGORY: Grid Resilience, Peak Shaving & Tariff Optimization
+
+1. Peak Demand Windows and Time-of-Day (ToD) Tariffs:
+- Commercial and educational electricity tariffs levy significant peak surcharges (often 15% to 25% premium above baseline tariffs) between 10:00 to 16:00 and 18:00 to 22:00.
+- Peak demand charges (kVA maximum demand billing) are determined by the single highest 15-minute load surge within a billing cycle. Shaving short-duration spikes delivers direct cost savings.
+
+2. Actionable Peak Reduction Protocols:
+- Stagger high-power laboratory equipment, autoclave cycles, heavy workshop machinery, and deep-freeze water pumping outside the 10:00 to 15:00 high-demand window.
+- Implement progressive setback temperatures: adjust indoor air conditioning thermostats upwards from 24°C to 25.5°C during the critical 12:00 to 15:00 peak hours.
+- Automate non-critical load shedding: temporarily suspend decorative lighting, water fountain pumps, and elevator bank redundancy during peak alert intervals.
+
+3. Power Factor Correction & Power Quality:
+- Maintain institutional power factor above 0.98 lagging through automatic power factor correction (APFC) capacitor banks. Low power factor attracts severe utility penalties and causes higher I2R distribution line heating losses.
